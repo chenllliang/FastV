@@ -1,3 +1,5 @@
+*Please move to https://github.com/pkunlp-icler/FastV for latest updates*
+
 <h1 align="center">FastV</h1>
 
 <p align="center">
