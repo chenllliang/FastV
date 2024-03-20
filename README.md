@@ -1,4 +1,4 @@
-*Please move to https://github.com/pkunlp-icler/FastV for latest updates*
+*Please move to https://github.com/pkunlp-icler/FastV for latest updates, this repo is archived*
 
 <h1 align="center">FastV</h1>
 
